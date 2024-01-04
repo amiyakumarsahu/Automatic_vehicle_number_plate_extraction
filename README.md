@@ -1,9 +1,9 @@
 # Automatic_vehicle_number_plate_extraction
 
-This project is used to read the images of the vehicle licence number, convert that licence number to text 
+This project is used to read the images of the vehicle license number, convert that license number to text 
 
 ## Application
-This project can be used in parking area to keep track of every vehicle and make parking process easier. it can be integrated with traffic system
+This project can be used in the parking area to keep track of every vehicle and make the parking process easier. It can be integrated with the traffic system
 
 ## Demo
 
