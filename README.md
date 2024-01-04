@@ -3,7 +3,7 @@
 This project is used to read the images of the vehicle licence number, convert that licence number to text 
 
 ## Application
-This project can be used in parking area to keep track of every vehicle and make parking process easier.
+This project can be used in parking area to keep track of every vehicle and make parking process easier. it can be integrated with traffic system
 
 ## Demo
 
