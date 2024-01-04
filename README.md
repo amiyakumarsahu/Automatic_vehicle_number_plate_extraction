@@ -1,6 +1,5 @@
 # Automatic_vehicle_number_plate_extraction
 
-# Vehicle-Number-Plate-Reading
 This project is used to read the images of the vehicle licence number, convert that licence number to text 
 
 ## Application
@@ -10,7 +9,7 @@ This project can be used in parking area to keep track of every vehicle and make
 
 ### Image
 
-Dependencies![Vehicle](https://github.com/amiyakumarsahu/Automatic_vehicle_number_plate_extraction/assets/22185755/31f4a2ac-0a60-41e9-a648-1b783fcae5bb)
+![Vehicle](https://github.com/amiyakumarsahu/Automatic_vehicle_number_plate_extraction/assets/22185755/31f4a2ac-0a60-41e9-a648-1b783fcae5bb)
 
 ### output
 
