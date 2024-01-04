@@ -17,10 +17,10 @@ This project can be used in parking area to keep track of every vehicle and make
 
 ## Dependencies
 
- opencv
- matplotlib 
- numpy
- imutils
- easyocr
+ - opencv
+ - matplotlib 
+ - numpy
+ - imutils
+ - easyocr
 ## Details
 This project was made in google colab environment and used vehicle.jpg for test
